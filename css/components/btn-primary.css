@@ -1,0 +1,18 @@
+.btn-primary {
+  display: inline-block;
+  padding: 16px 36px;
+  color: white;
+  padding: 8px 24px;
+  border-radius: 4px;
+  font-weight: bold;
+  background: linear-gradient(#f1934b, #f56207);
+  transition: 0.8s ease;
+  text-decoration: none;
+
+}
+
+.btn-primary:hover {
+  background: linear-gradient(#f65e3b, #f6280d);
+  color: white;
+
+}
